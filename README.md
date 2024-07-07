@@ -8,7 +8,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 - 🌱 I’m currently learning advanced techniques in Machine Learning and Docker.
 - 👯 I’m looking to collaborate on open source projects and innovative tech solutions.
 - 💬 Ask me about Django, Django REST, React, Machine Learning, Docker, Ubuntu, and bash scripting.
-- 📫 How to reach me: [Your Email/LinkedIn].
+- 📫 How to reach me: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com).
 
 ## Skills
 
@@ -30,9 +30,10 @@ Here are some of the projects I've been working on:
 
 ## Contact Me
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
+- Email: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com)
+- LinkedIn: [Geofroy Badolo](https://www.linkedin.com/in/geofroy-badolo/)
+- GitHub: [codebadolo](https://github.com/codebadolo)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=codebadolo&color=blue)
+
 
