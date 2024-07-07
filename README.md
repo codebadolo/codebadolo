@@ -17,16 +17,20 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 - **Tools and Technologies:** Git, Docker, PostgreSQL, HTML, CSS, Machine Learning, Ubuntu, Terminal
 - **System Administration:** Advanced Ubuntu, Bash scripting, Server management
 
-## Projects
+## Skills
 
-Here are some of the projects I've been working on:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat&logo=Django&logoColor=white&logo=django)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-- [Project 1 Name](link to project) - Short description of the project using Django and Django REST.
-- [Project 2 Name](link to project) - Short description of the project using React.
-- [Project 3 Name](link to project) - Short description of the project combining Django and React.
-- [Project 4 Name](link to project) - Short description of a Machine Learning project.
-- [Project 5 Name](link to project) - Short description of a project using Docker.
-- [Project 6 Name](link to project) - Short description of a system administration project with advanced Ubuntu and Bash scripting.
+
 
 ## Contact Me
 
