@@ -49,7 +49,26 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 
 ---
 
+## GitHub Stats
+
+![Badolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebadolo&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
+
+---
+
 ## Contact Me
+
+- Email: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com)
+- LinkedIn: [Geofroy Badolo](https://www.linkedin.com/in/geofroy-badolo/)
+- GitHub: [codebadolo](https://github.com/codebadolo)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=codebadolo&style=flat-square)
+
 
 - Email: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com)
 - LinkedIn: [Geofroy Badolo](https://www.linkedin.com/in/geofroy-badolo/)
