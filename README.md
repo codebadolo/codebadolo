@@ -16,19 +16,19 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 
 ## Skills
 
-**Programming Languages:**
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frameworks and Libraries:**
+### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tools and Technologies:**
+### Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,7 +42,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2F6690?style=for-the-badge&logo=seaborn&logoColor=white)
 
-**System Administration:**
+### System Administration
 - Advanced Ubuntu
 - Bash scripting
 - Server management
@@ -51,7 +51,9 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 
 ## GitHub Stats
 
-![Badolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebadolo&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
+![Badolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebadolo&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
 
 ---
 
@@ -64,4 +66,3 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codebadolo&style=flat-square)
-
