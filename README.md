@@ -54,6 +54,22 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![Badolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebadolo&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
+![Total Contributions](https://komarev.com/ghpvc/?username=codebadolo&label=Total%20Contributions&style=flat-square&color=blue)
+![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebadolo&theme=radical)
+![Stars](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
+![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebadolo&theme=radical)
+![Followers](https://img.shields.io/github/followers/codebadolo?label=Followers&style=social)
+![Following](https://img.shields.io/github/following/codebadolo?label=Following&style=social)
+![Pull Requests](https://img.shields.io/github/issues-pr/codebadolo?label=Pull%20Requests&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/codebadolo?label=Issues&style=for-the-badge)
+![Contributions by Year](https://github-profile-summary-cards.vercel.app/api/cards/yearly-contributions?username=codebadolo&theme=radical)
+![Recent Activity](https://activity-graph.herokuapp.com/graph?username=codebadolo&theme=dracula)
+
+
+
+
+
+
 
 ---
 
