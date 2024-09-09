@@ -60,7 +60,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebadolo&theme=radical)
 ![Followers](https://img.shields.io/github/followers/codebadolo?label=Followers&style=social)
 ![Following](https://img.shields.io/github/following/codebadolo?label=Following&style=social)
-![Pull Requests](https://img.shields.io/github/issues-pr/codebadolo?label=Pull%20Requests&style=for-the-badge)
+
 
 
 
