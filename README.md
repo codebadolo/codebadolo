@@ -61,9 +61,6 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![Followers](https://img.shields.io/github/followers/codebadolo?label=Followers&style=social)
 ![Following](https://img.shields.io/github/following/codebadolo?label=Following&style=social)
 ![Pull Requests](https://img.shields.io/github/issues-pr/codebadolo?label=Pull%20Requests&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/codebadolo?label=Issues&style=for-the-badge)
-![Contributions by Year](https://github-profile-summary-cards.vercel.app/api/cards/yearly-contributions?username=codebadolo&theme=radical)
-![Recent Activity](https://activity-graph.herokuapp.com/graph?username=codebadolo&theme=dracula)
 
 
 
