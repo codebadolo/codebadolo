@@ -58,8 +58,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebadolo&theme=radical)
 ![Stars](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
 ![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebadolo&theme=radical)
-![Followers](https://img.shields.io/github/followers/codebadolo?label=Followers&style=social)
-![Following](https://img.shields.io/github/following/codebadolo?label=Following&style=social)
+
 
 
 
