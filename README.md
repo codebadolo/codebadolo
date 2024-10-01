@@ -43,7 +43,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 ![Seaborn](https://img.shields.io/badge/Seaborn-2F6690?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### System Administration
-- Advanced Ubuntu
+- Advanced Ubuntu ( linux disciple ) 
 - Bash scripting
 - Server management
 
