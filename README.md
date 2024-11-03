@@ -44,8 +44,9 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 
 ### System Administration
 - Advanced Ubuntu ( linux disciple ) 
-- Bash scripting
+- Bash scripting 
 - Server management
+and so
 
 ---
 
