@@ -69,7 +69,7 @@ Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrat
 
 ---
 
-## Contact Me
+## Contact Me with
 
 - Email: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com)
 - LinkedIn: [Geofroy Badolo](https://www.linkedin.com/in/geofroy-badolo/)
