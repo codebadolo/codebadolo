@@ -10,7 +10,7 @@ just let me know by contacting me
 - 🌱 Currently working on Sicsnasara.
 - 🌱 Learning advanced techniques in Machine Learning and Docker . 
 - 👯 Looking to collaborate on open source projects and innovative tech solutions .
-- 💬 Ask me about Django, Django REST, React, Machine Learning, Docker, Ubuntu, and bash scripting.
+- 💬 Ask me about Django,Django REST, React, Machine Learning, Docker, Ubuntu, and bash scripting.
 - 📫 How to reach me: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com).
 
 ---
