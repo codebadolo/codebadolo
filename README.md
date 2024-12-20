@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile !
 
 Hi there! 👋 I'm Badolo Geofroy, a passionate developer and system administrator from Burkina Faso. and am opened to everyone 
-just let me know by contacting me
+just let me know by contacting me 
 
 ---
 
