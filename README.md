@@ -60,12 +60,6 @@ and so
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
 ![Total Contributions](https://komarev.com/ghpvc/?username=codebadolo&label=Total%20Contributions&style=flat-square&color=blue)
 
-![Stars](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
-
-
-
-
-
 
 ---
 
