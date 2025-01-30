@@ -55,11 +55,11 @@ and so
 
 ## GitHub Stats 
 
-![Badolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebadolo&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codebadolo&theme=radical)
 ![Total Contributions](https://komarev.com/ghpvc/?username=codebadolo&label=Total%20Contributions&style=flat-square&color=blue)
-![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebadolo&theme=radical)
+
 ![Stars](https://github-readme-stats.vercel.app/api?username=codebadolo&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&count_private=true&theme=radical)
 ![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebadolo&theme=radical)
 
