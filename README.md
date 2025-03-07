@@ -8,7 +8,6 @@ just let me know by contacting me
 ---
 
 
- 
 ## About Me
 
 
