@@ -9,7 +9,6 @@ just let me know by contacting me
 ---
 ## About Me
 
-
 - 🌱 Learning advanced techniques in Machine Learning and Docker . 
 - 👯 Looking to collaborate on open source projects and innovative tech solutions.
 - 💬 Ask me about Django,Django REST, React, Machine Learning, Docker, Ubuntu, and bash scripting.
