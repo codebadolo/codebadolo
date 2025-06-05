@@ -14,7 +14,6 @@ just let me know by contacting me
 - 📫 How to reach me: [codewithbadolo@gmail.com](mailto:codewithbadolo@gmail.com).
 
 
-
 ---
 
 ## Skills
